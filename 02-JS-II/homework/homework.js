@@ -3,6 +3,7 @@
 // Asegúrate que usas "return" cuando la consola te lo pida.
 // Pista: "console.log()" NO fucionará.
 // No cambies los nombres de las funciones.
+// Modificacion minima de prueba
 
 function devolverString(str) {
     // "Return" la string provista: str
